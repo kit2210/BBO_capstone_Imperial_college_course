@@ -4,8 +4,8 @@ This repository contains the code, data, and documentation for the 13-week Black
 
 ## 📂 Documentation
 
-* **[📄 Datasheet](DATASHEET.md):** Details on the dataset composition, collection process, and intended uses.
-* **[🃏 Model Card](MODEL_CARD.md):** Overview of the optimization strategy, performance metrics, and limitations.
+* **[📄 Datasheet](Datasheet.md):** Details on the dataset composition, collection process, and intended uses.
+* **[🃏 Model Card](MODELCARD.md):** Overview of the optimization strategy, performance metrics, and limitations.
 
 ## 🚀 Project Overview
 
